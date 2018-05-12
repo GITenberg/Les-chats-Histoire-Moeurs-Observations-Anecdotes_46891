@@ -1,4 +1,8 @@
 _repo: Les-chats-Histoire-Moeurs-Observations-Anecdotes_46891
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Champfleury
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36988
     wikipedia: http://fr.wikipedia.org/wiki/Jules_Champfleury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46891#Les-chats-Histoire-Moeurs-Observations-Anecdotes
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2014-09-18'
 gutenberg_type: Text
